@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.calc{
+width: 320px;
+margin:100px auto;
+}
+
+.result{
+    background-color: black;
+    padding: 10px;
+    font-size: 35px;
+    width: 297px;
+    height: 50px;
+    text-align: right;
+    color: white;
+}
+
+.btn{
+    background: black;
+    height: 80px;
+    width: 80px;
+        font-size: 30px;
+    color: white;
+}
+
+.clear{
+    width: 320px;
+    background: black;
+    height: 80px;
+        font-size: 30px;
+     color: white;
+}
+
